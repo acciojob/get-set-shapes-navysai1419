@@ -20,7 +20,7 @@ class Rectangle {
 
 class Square extends Rectangle {
 	constructor(side: number){
-		this.number=number;
+		this.side=side;
 		
 	}
 	getArea(){
